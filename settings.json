@@ -1,0 +1,52 @@
+{
+  "icon_theme": "Catppuccin Frappé",
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false,
+    "anthropic_retention": false
+  },
+  "terminal": {
+    "shell": {
+      "program": "C:\\Program Files\\Git\\bin\\bash.exe"
+    },
+    "working_directory": "current_project_directory"
+  },
+  "git": {
+    "inline_blame": {
+      "enabled": false
+    }
+  },
+  "session": {
+    "trust_all_worktrees": true
+  },
+  "vim_mode": true,
+  "node": {
+    "npm_path": "pnpm"
+  },
+  "project_panel": {
+    "dock": "left",
+    "auto_fold_dirs": false
+  },
+  "minimap": {
+    "show": "always"
+  },
+  "colorize_brackets": true,
+  "format_on_save": "on",
+  "soft_wrap": "editor_width",
+  "agent_servers": {
+    "github-copilot-cli": {
+      "type": "registry"
+    }
+  },
+  "edit_predictions": {
+    "provider": "none"
+  },
+  "base_keymap": "VSCode",
+  "ui_font_size": 22.0,
+  "buffer_font_size": 22.0,
+  "theme": {
+    "mode": "system",
+    "light": "One Light",
+    "dark": "One Dark"
+  }
+}
